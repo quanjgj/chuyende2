@@ -67,7 +67,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
             const SizedBox(height: 20),
             _buildInputField("Số tiền", _amountController),
             const SizedBox(height: 20),
-            _buildInputField("Lãi hàng năm", _rateController),
+            _buildInputField("Lãi hàng năm(%)", _rateController),
             const SizedBox(height: 30),
             Row(
               children: [
