@@ -35,10 +35,4 @@
 - Dart
 - Firebase / API Backend (tuỳ triển khai)
 
----
 
-## 🚀 Hướng dẫn chạy dự án
-
-```bash
-flutter pub get
-flutter run
